@@ -78,14 +78,14 @@ namespace BattleShip_Console
             switch (a)
             {
                 case 0:
-               // case 1:                                                                       // чит мод выкл.
+                case 1:                                                                           // чит мод выкл.
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.Write(".");
                     Console.ForegroundColor = ConsoleColor.White;
                     break;
-                case 1:                                                                         // чит мод вкл.
+                /*case 1:                                                                         // чит мод вкл.
                     Console.Write("■");
-                    break;
+                    break;*/
                 case 2:                                                                         
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.Write("O");
