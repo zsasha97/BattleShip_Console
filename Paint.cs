@@ -83,7 +83,7 @@ namespace BattleShip_Console
                     Console.Write(".");
                     Console.ForegroundColor = ConsoleColor.White;
                     break;
-                /*case 1:                                                                         // чит мод вкл.
+                /*case 1:                                                                        // чит мод вкл.
                     Console.Write("■");
                     break;*/
                 case 2:                                                                         
